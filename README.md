@@ -7,7 +7,7 @@ local player = Players.LocalPlayer
 local WHITELIST = {
     "LipeLovesJesus",
     "souzaaazr7",
-    "hacjdk9",
+    "tong_ton66",
     "fofinho20115",
     "exiled57",
     "gorilatortinho67",
